@@ -9,7 +9,7 @@ export default function CadastroVideo() {
           Cadastro de Vídeo 
         </h1>
         <Link to="/cadastro/categoria">
-          Cadastrar Categoria: 
+          Cadastrar Categoria 
         </Link>
       </PageDefault>
     )
