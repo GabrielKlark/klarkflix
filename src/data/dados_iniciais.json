@@ -1,7 +1,7 @@
 {
   "categorias": [
     {
-      "titulo": "Front End",
+      "titulo": "Coreos",
       "link": "https://www.alura.com.br/formacao-front-end",
       "cor": "#00FF00",
       "link_extra": {
@@ -10,8 +10,8 @@
       },
       "videos": [
         {
-          "titulo": "O que faz uma desenvolvedora front-end? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=ZY3-MFxVdEw"
+          "titulo": "How You Like That - My favorite choreography.",
+          "url": "https://www.youtube.com/watch?v=8Tpd63k6dHM"
         },
         {
           "titulo": "SEO com React",
