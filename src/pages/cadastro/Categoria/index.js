@@ -30,7 +30,7 @@ function CadastroCategoria() {
 
   return (
     <PageDefault>
-      <h1>Cadastro de Categoria: {values.nome}</h1>
+      <h1>Category Registration: {values.nome}</h1>
 
       <form onSubmit={function handleSubmit(infosDoEvento) {
           infosDoEvento.preventDefault();
@@ -43,7 +43,7 @@ function CadastroCategoria() {
       }}>
 
         <FormField
-          label="Nome da Categoria"
+          label="Category Name"
           type="text"
           name="nome"
           value={values.nome}
@@ -51,7 +51,7 @@ function CadastroCategoria() {
         />
 
         <FormField
-          label="Descrição"
+          label="Description"
           type="????"
           name="descricao"
           value={values.descricao}
@@ -70,7 +70,7 @@ function CadastroCategoria() {
         </div> */}
 
         <FormField
-          label="Cor"
+          label="Color"
           type="color"
           name="cor"
           value={values.cor}
@@ -89,7 +89,7 @@ function CadastroCategoria() {
         </div> */}
 
         <button>
-          Cadastrar
+          Register
         </button>
       </form>
       
@@ -105,7 +105,7 @@ function CadastroCategoria() {
       </ul>
 
       <Link to="/">
-        Ir para home
+        Go to Home Page
       </Link>
     </PageDefault>
   )

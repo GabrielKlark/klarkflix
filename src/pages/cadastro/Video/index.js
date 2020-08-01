@@ -6,10 +6,10 @@ export default function CadastroVideo() {
     return (
       <PageDefault>
         <h1> 
-          Cadastro de Vídeo 
+          Video Register 
         </h1>
         <Link to="/cadastro/categoria">
-          Cadastrar Categoria 
+          Register Category 
         </Link>
       </PageDefault>
     )

@@ -1,12 +1,12 @@
 {
   "categorias": [
     {
-      "titulo": "Coreos",
-      "link": "https://www.alura.com.br/formacao-front-end",
+      "titulo": "Movies",
+      "link": "https://www.instagram.com/gabrielzklark/",
       "cor": "#00FF00",
       "link_extra": {
-        "text": "Formação de Front End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-front-end"
+        "text": "Those ones will always be in my heart.",
+        "url": "https://www.instagram.com/gabrielzklark/"
       },
       "videos": [
         {
@@ -14,140 +14,164 @@
           "url": "https://www.youtube.com/watch?v=8Tpd63k6dHM"
         },
         {
-          "titulo": "SEO com React",
-          "url": "https://www.youtube.com/watch?v=c8mVlakBESE"
+          "titulo": "Coraline",
+          "url": "https://www.youtube.com/watch?v=m9bOpeuvNwY"
         },
         {
-          "titulo": "Componentização com VanillaJS #AluraMais",
-          "url": "https://www.youtube.com/watch?v=LatCKpcOMak"
+          "titulo": "The Final Destination Series (1 to 5)",
+          "url": "https://www.youtube.com/watch?v=ectjqGg92M8"
         },
         {
-          "titulo": "Pare de chutar e aprenda a display: inline #01",
-          "url": "https://www.youtube.com/watch?v=5PS6ku8NzIE"
+          "titulo": "Hunger Games (1 to 4)",
+          "url": "https://www.youtube.com/watch?v=EAzGXqJSDJ8"
         },
         {
-          "titulo": "Template String: Interpolando strings com JavaScript #AluraMais",
-          "url": "https://www.youtube.com/watch?v=ORI_HTXaIw0"
+          "titulo": "Saw I to Saw VIII",
+          "url": "https://www.youtube.com/watch?v=lgh35ocAqwM"
         },
         {
-          "titulo": "Qual é a melhor linguagem de programação? #HipstersPontoTube",
-          "url": "https://www.youtube.com/watch?v=Uh-GNH-t89w"
+          "titulo": "The Conjuring 2",
+          "url": "https://www.youtube.com/watch?v=VFsmuRPClr4"
         },
         {
-          "titulo": "Novidades do Angular v9",
-          "url": "https://www.youtube.com/watch?v=34uHo7hFmG0"
+          "titulo": "Happy Death Day (1 n 2)",
+          "url": "https://www.youtube.com/watch?v=1NTaDm3atkc"
         },
         {
-          "titulo": "Base para aprender os frameworks",
-          "url": "https://www.youtube.com/watch?v=QzDjdlF1BQI"
-        }        
+          "titulo": "Shelter",
+          "url": "https://www.youtube.com/watch?v=fgPb0dhOsck"
+        },
+        {
+          "titulo": "Get Real",
+          "url": "https://www.youtube.com/watch?v=0EetMTdTL3U"
+        }         
       ]
     },
     {
-      "titulo": "Back End",
+      "titulo": "Series",
       "cor": "#00C86F",
       "link_extra": {
-        "text": "Cursos de Back End na Alura",
-        "url": "https://www.alura.com.br/cursos-online-programacao"
+        "text": "My favorites series ever.",
+        "url": "https://www.netflix.com/title/80138256"
       },
       "videos": [
         {
-          "titulo": "PERCURSO em NÍVEL em ÁRVORE BINÁRIA | Estruturas de Dados #14",
-          "url": "https://www.youtube.com/watch?v=UOK7nS2E9xM"
+          "titulo": "Lucifer #1",
+          "url": "https://www.youtube.com/watch?v=X4bF_quwNtw"
         },
         {
-          "titulo": "Coders4Tips - S01E04: GitHub CLI - Uma Nova Experiência no Github!",
-          "url": "https://www.youtube.com/watch?v=6o6-bKOZOEY"
+          "titulo": "How I Met Your Mother #2",
+          "url": "https://www.youtube.com/watch?v=C8-4jMTOUJI"
         },
         {
-          "titulo": "Programei 4 robôs que criam vídeos para mim no YouTube",
-          "url": "https://www.youtube.com/watch?v=kjhu1LEmRpY"
+          "titulo": "Revenge #3",
+          "url": "https://www.youtube.com/watch?v=Y7CQYF0Oycs"
         },
         {
-          "titulo": "API: Dicionário do Programador",
-          "url": "https://www.youtube.com/watch?v=vGuqKIRWosk"
+          "titulo": "How to Get Away With Muder #4",
+          "url": "https://www.youtube.com/watch?v=dkb-aBaxkVk"
         }, 
         {
-          "titulo": "Usando Git Direito",
-          "url": "https://www.youtube.com/watch?v=6OokP-NE49k"
-        }
-      ]
-    },
-    {
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b",
-      "link_extra": {
-        "text": "Cursos de Data Science na Alura",
-        "url": "https://www.alura.com.br/formacao-data-science"
-      },
-      "videos": [
-        {
-          "titulo": "Teste de Turing",
-          "url": "https://www.youtube.com/watch?v=BaPGU4JWa34"
-        },
-        {
-          "titulo": "O que é Data Science?",
-          "url": "https://www.youtube.com/watch?v=5b9Z8toVaAU&t=9s"
-        },
-        {
-          "titulo": "Melhor forma de aprender Python",
-          "url": "https://www.youtube.com/watch?v=Gojqw9BQ5qY"
-        },
-        {
-          "titulo": "Como ingressar no mercado de Data Science?",
-          "url": "https://www.youtube.com/watch?v=gxyjGmOV540"
-        }
-      ]
-    },
-    {
-      "titulo": "Filmes",
-      "cor": "orange",
-      "videos": [
-        {
-          "titulo": "Interestellar",
-          "url": "https://www.youtube.com/watch?v=frD_IiY_A3E"
-        },
-        {
-          "titulo": "Gattaca",
-          "url": "https://www.youtube.com/watch?v=Dl0tYLbrhhs"
-        },
-        {
-          "titulo": "A Chegada",
-          "url": "https://www.youtube.com/watch?v=rNciXGzYZms"
-        },
-        {
-          "titulo": "Feitiço do Tempo",
-          "url": "https://www.youtube.com/watch?v=zi8d69P9NvI"
+          "titulo": "13 Reasons Why (Only first season) #5",
+          "url": "https://www.youtube.com/watch?v=QkT-HIMSrRk"
         }
       ]
     },
     {
       "titulo": "Games",
-      "cor": "red",
+      "cor": "blue",
       "link_extra": {
-        "text": "Formação de Jogos na Alura",
-        "url": "https://www.alura.com.br/formacao-jogos-unity"
+        "text": "DDLC and LIS are the best games ever!",
+        "url": "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club"
       },
       "videos": [
         {
-          "titulo": "Final Fantasy 7",
-          "url": "https://www.youtube.com/watch?v=I_ATSCTnUD8"
+          "titulo": "Doki Doki Literature Club",
+          "url": "https://www.youtube.com/watch?v=O170OOFDoVc&list=PLI_JLekVwq0NgWbXhjpi7mKX1m5suUUaZ"
         },
         {
-          "titulo": "Assassins Creed Valhalla",
-          "url": "https://www.youtube.com/watch?v=KDfdjB9uL0U"
+          "titulo": "Life Is Strange",
+          "url": "https://www.youtube.com/watch?v=mpRhaXfvG_0"
         },
         {
-          "titulo": "God of War 4",
-          "url": "https://www.youtube.com/watch?v=FyIwEFXOcaE"
+          "titulo": "Sister Location",
+          "url": "https://www.youtube.com/watch?v=Uw4-bZkxyKQ"
         },
         {
-          "titulo": "Resident Evil 8",
-          "url": "https://www.youtube.com/watch?v=JSapXD9vxYA"
+          "titulo": "Until Dawn",
+          "url": "https://www.youtube.com/watch?v=GJhcrAiChEI"
         },
         {
-          "titulo": "Pokémon Let's Go Pikachu/Eevee",
-          "url": "https://www.youtube.com/watch?v=L56q_k2ydrs"
+          "titulo": "Minecraft Story Mode (all episodes and seasons)",
+          "url": "https://www.youtube.com/watch?v=HAnRtMEDrvU"
+        }
+      ]
+    },
+    {
+      "titulo": "Coreos",
+      "cor": "indigo",
+      "link_extra": {
+        "text": "I love dancing Sz",
+        "url": "https://www.youtube.com/playlist?list=PLynPDU1_JykMj3AYf0ZhZnfYKLoG0hY6D"
+      },
+      "videos": [
+        {
+          "titulo": "How You Like That",
+          "url": "https://www.youtube.com/watch?v=tSmZWgO0JaU"
+        },
+        {
+          "titulo": "Ddu Du Ddu Du",
+          "url": "https://www.youtube.com/watch?v=Fh5PdemaQhM"
+        },
+        {
+          "titulo": "Tuntrum",
+          "url": "https://www.youtube.com/watch?v=n_ryiD366bg"
+        },
+        {
+          "titulo": "Kill This Love",
+          "url": "https://www.youtube.com/watch?v=BRUYjbeSj-M"
+        },
+        {
+          "titulo": "Dança da Mãozinha",
+          "url": "https://www.youtube.com/watch?v=uS8fYjT9bfc"
+        },
+        {
+          "titulo": "Playlist - All I Know How to Dance",
+          "url": "https://www.youtube.com/watch?v=XGZwjxN3Bns&list=PLynPDU1_JykMj3AYf0ZhZnfYKLoG0hY6D"
+        }
+      ]
+    },
+    {
+      "titulo": "Songs",
+      "cor": "red",
+      "link_extra": {
+        "text": "I'm listening to music all the time.",
+        "url": "https://www.youtube.com/watch?v=XJBUWZsT38c&list=PLMSmPqvJ6siJwH_c2H_N8j9JqDt8ogyny"
+      },
+      "videos": [
+        {
+          "titulo": "xanny",
+          "url": "https://www.youtube.com/watch?v=LZyybvVx-js"
+        },
+        {
+          "titulo": "idontwannabeyouanymore",
+          "url": "https://www.youtube.com/watch?v=-tn2S3kJlyU"
+        },
+        {
+          "titulo": "Parents",
+          "url": "https://www.youtube.com/watch?v=oOWBsmgjmPo"
+        },
+        {
+          "titulo": "Que Amor É Esse?",
+          "url": "https://www.youtube.com/watch?v=xu8Zel1u-6k"
+        },
+        {
+          "titulo": "Psychosocial",
+          "url": "https://www.youtube.com/watch?v=5abamRO41fE"
+        },
+        {
+          "titulo": "Hi, It's Me",
+          "url": "https://www.youtube.com/watch?v=4o_IQavlMDA"
         }
       ]
     },
