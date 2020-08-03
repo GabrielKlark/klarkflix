@@ -1,5 +1,4 @@
 import React from 'react';
-import styled from 'styled-components';
 import { FooterBase } from './style';
 import Logo from '../../assets/img/logo.png';
 import { MyLogo } from './style';
