@@ -5,12 +5,14 @@ import dadosIniciais from '../../data/dados_iniciais.json';
 import BannerMain from '../../components/BannerMain';
 import Carousel from '../../components/Carousel';
 import Footer from '../../components/Footer';
+import categoriasRepository from '../../repositories/categorias';
 
 const AppWrapper = styled.div`
     background-color: var(--grayDark);
 `;
 
 function Home() {
+  
   return (
     <AppWrapper>
       <Menu />

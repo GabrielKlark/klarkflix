@@ -18,11 +18,12 @@ function CadastroCategoria() {
   const [categorias, setCategorias] = useState([]);
 
   useEffect(() => {
-    const URL_TOP = window.location.hostname.includes('localhost')
-      ? 'http://localhost:8080/categorias'
+    const URL = window.location.hostname.includes('localhost')
+      //? 'http://localhost:8080/categorias'
+      ? 'https://klarkflix.herokuapp.com/categorias'
       : 'https://klarkflix.herokuapp.com/categorias';
-    // E a ju ama variáveis
-    fetch(URL_TOP)
+
+    fetch(URL)
       .then(async (respostaDoServidor) => {
         const resposta = await respostaDoServidor.json();
         setCategorias([
