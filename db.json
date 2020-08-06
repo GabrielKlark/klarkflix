@@ -2,28 +2,48 @@
   "categorias": [
     {
       "id": 1,
-      "titulo": "Front End",
-      "cor": "#6BD1FF"
+      "titulo": "Movies",
+      "cor": "#00FF00",
+      "link_extra": {
+        "text": "Those ones will always be in my heart.",
+        "url": "https://www.instagram.com/gabrielzklark/"
+      }
     },
     {
       "id": 2,
-      "titulo": "Back End",
-      "cor": "#00C86F"
+      "titulo": "Series",
+      "cor": "#00C86F",
+      "link_extra": {
+        "text": "My favorites series ever.",
+        "url": "https://www.netflix.com/title/80138256"
+      }
     },
     {
       "id": 3,
-      "titulo": "Data Science e Inteligência Artificial",
-      "cor": "#9cd33b"
+      "titulo": "Games",
+      "cor": "blue",
+      "link_extra": {
+        "text": "DDLC and LIS are the best games ever!",
+        "url": "https://store.steampowered.com/app/698780/Doki_Doki_Literature_Club"
+      }
     },
     {
       "id": 4,
-      "titulo": "Filmes",
-      "cor": "orange"
+      "titulo": "Coreos",
+      "cor": "indigo",
+      "link_extra": {
+        "text": "I love dancing Sz",
+        "url": "https://www.youtube.com/playlist?list=PLynPDU1_JykMj3AYf0ZhZnfYKLoG0hY6D"
+      }
     },
     {
       "id": 5,
-      "titulo": "Games",
-      "cor": "red"
+      "titulo": "Songs",
+      "cor": "red",
+      "link_extra": {
+        "text": "I'm listening to music all the time.",
+        "url": "https://www.youtube.com/watch?v=XJBUWZsT38c&list=PLMSmPqvJ6siJwH_c2H_N8j9JqDt8ogyny"
+      }
     }
   ],
   "videos": [
